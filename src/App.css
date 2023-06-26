@@ -1,0 +1,18 @@
+main{
+  position: absolute;
+  background-color: khaki;
+  border: 1px solid black;
+  left: 45%;
+  top: 45%;
+}
+h1{
+  margin-left: 70px;
+
+}
+button1{
+  background-color: green;
+}
+button2{
+  background-color: red;
+  margin-left: 20px;
+}
